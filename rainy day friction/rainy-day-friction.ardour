@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="rainy-day-friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="69879" name-counter="1" event-counter="100574" vca-counter="1">
+<Session version="6000" name="rainy-day-friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="95281" name-counter="1" event-counter="120356" vca-counter="1">
   <ProgramVersion created-with="Ardour 1:5.12.0-3ubuntu4" modified-with="Ardour 6.9.0~ds0-1build1"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
@@ -663,9 +663,76 @@
     <Region name="bryan sax-7.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="617400" position="176400" beat="8" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="69587" type="audio" first-edit="nothing" source-0="69562" master-source-0="69562" channels="1"/>
     <Region name="bryan sax-7.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="617400" length="269880" position="176400" beat="8" sync-position="617400" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="69600" type="audio" first-edit="nothing" source-0="69562" master-source-0="69562" channels="1"/>
     <Region name="bryan sax-8" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="4192240" position="176400" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="69675" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1"/>
+    <Region name="bryan sax-8.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3528000" length="664240" position="176400" beat="8" sync-position="3528000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="69748" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1"/>
     <Region name="bryan sax-9" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1184752" position="88200" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="69812" type="audio" first-edit="nothing" source-0="69802" master-source-0="69802" channels="1"/>
     <Region name="bryan sax-9.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1184752" position="88200" beat="4" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="69820" type="audio" first-edit="nothing" source-0="69802" master-source-0="69802" channels="1"/>
     <Region name="bryan sax-10" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="8701424" position="88200" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="69850" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1"/>
+    <Region name="bryan sax-10.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="8701424" position="88200" beat="4" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="69858" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1"/>
+    <Region name="bryan sax-2.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2160900" length="88201" position="0" beat="0" sync-position="2160900" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="76998" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2160900" length="88201" position="2381400" beat="108" sync-position="2160900" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77011" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2249101" length="529200" position="0" beat="0" sync-position="2249101" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77058" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2249101" length="529200" position="2910600" beat="132" sync-position="2249101" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77071" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2954700" length="220501" position="0" beat="0" sync-position="2954700" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77107" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2954700" length="220501" position="3307500" beat="150" sync-position="2954700" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77120" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3483900" length="264601" position="0" beat="0" sync-position="3483900" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77163" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3483900" length="264601" position="3880800" beat="176" sync-position="3483900" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77176" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4983300" length="88201" position="0" beat="0" sync-position="4983300" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77212" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4983300" length="88201" position="5203800" beat="236" sync-position="4983300" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77225" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4983300" length="97357" position="5115600" beat="232" sync-position="4983300" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77243" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6218100" length="88201" position="0" beat="0" sync-position="6218100" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77261" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.18" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6218100" length="88201" position="6438600" beat="292" sync-position="6218100" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77274" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6218100" length="66517" position="1852200" beat="84" sync-position="6218100" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.89125090837478638" id="77310" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6218100" length="88201" position="1764000" beat="80" sync-position="6218100" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77358" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-8.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3528000" length="617400" position="1587600" beat="72" sync-position="3528000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77387" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1"/>
+    <Region name="bryan sax-8.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3528000" length="441000" position="1499400" beat="68" sync-position="3528000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77405" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1"/>
+    <Region name="bryan sax-8.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3969000" length="176400" position="1940400" beat="88" sync-position="3969000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77414" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1"/>
+    <Region name="bryan sax-8.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3528000" length="264600" position="1499400" beat="68" sync-position="3528000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77436" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1"/>
+    <Region name="bryan sax-8.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3792600" length="176400" position="1764000" beat="80" sync-position="3792600" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77445" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1"/>
+    <Region name="bryan sax-8.14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3528000" length="264600" position="1499400" beat="68" sync-position="3528000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77542" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1"/>
+    <Region name="bryan sax-8.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3880800" length="88200" position="1852200" beat="84" sync-position="3880800" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77560" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1"/>
+    <Region name="bryan sax-8.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3969000" length="176400" position="1940400" beat="88" sync-position="3969000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="11" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77578" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1"/>
+    <Region name="bryan sax-8.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3528000" length="264600" position="1587600" beat="72" sync-position="3528000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77671" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1"/>
+    <Region name="bryan sax-8.18" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3880801" length="264599" position="1940401" beat="88.000045351473915" sync-position="3880801" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77680" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1"/>
+    <Region name="bryan sax-8.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3528000" length="264600" position="1587600" beat="72" sync-position="3528000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77751" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1"/>
+    <Region name="bryan sax-2.22" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2142700" length="106401" position="1567300" beat="71.07936507936509" sync-position="2142700" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="11" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77967" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.23" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3572100" length="88201" position="0" beat="0" sync-position="3572100" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="78024" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.27" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2249101" length="529200" position="2998800" beat="136" sync-position="2249101" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="78595" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.28" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2249101" length="133200" position="2998800" beat="136" sync-position="2249101" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="78613" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.29" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2382301" length="396000" position="3132000" beat="144" sync-position="2382301" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="78622" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.30" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2249101" length="133200" position="2998800" beat="136" sync-position="2249101" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="14" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="78693" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.31" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2601901" length="176400" position="3351600" beat="152" sync-position="2601901" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="78711" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-8.22" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3528000" length="617400" position="2998800" beat="136" sync-position="3528000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="78830" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1"/>
+    <Region name="bryan sax-8.23" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3528000" length="88200" position="2998800" beat="136" sync-position="3528000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="78848" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1"/>
+    <Region name="bryan sax-8.24" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3616200" length="529200" position="3087000" beat="140" sync-position="3616200" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="78857" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1"/>
+    <Region name="bryan sax-8.25" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3616200" length="220501" position="3087000" beat="140" sync-position="3616200" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="78879" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1"/>
+    <Region name="bryan sax-8.26" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3836701" length="308699" position="3307501" beat="152" sync-position="3836701" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="78888" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1"/>
+    <Region name="bryan sax-10.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4145400" length="882001" position="0" beat="0" sync-position="4145400" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="79076" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1"/>
+    <Region name="bryan sax-10.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4145400" length="882001" position="5115600" beat="232" sync-position="4145400" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="79089" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1"/>
+    <Region name="bryan sax-10.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4148706" length="878695" position="4236906" beat="192.14993197278912" sync-position="4148706" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="16" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="79107" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1"/>
+    <Region name="bryan sax-2.32" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4542300" length="88201" position="0" beat="0" sync-position="4542300" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="79245" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.33" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4542300" length="88201" position="4762800" beat="216" sync-position="4542300" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="79258" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.35" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4806900" length="176401" position="0" beat="0" sync-position="4806900" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="79492" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.36" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4806900" length="176401" position="5115600" beat="232" sync-position="4806900" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="79505" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.40" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5019109" length="4872" position="5151409" beat="232" sync-position="5019109" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="80231" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.41" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5023981" length="56676" position="5156281" beat="232" sync-position="5023981" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="80240" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.42" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5014321" length="4788" position="0" beat="0" sync-position="5014321" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="80326" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.43" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5014321" length="4788" position="5151409" beat="233.6239909297052" sync-position="5014321" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="22" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="80339" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-2.44" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5021129" length="1865" position="0" beat="0" sync-position="5021129" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="81847" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1"/>
+    <Region name="bryan sax-10.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5733000" length="512663" position="0" beat="0" sync-position="5733000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="82277" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1"/>
+    <Region name="bryan sax-10.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5733000" length="512663" position="6333863" beat="287.25002267573694" sync-position="5733000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="82290" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1"/>
+    <Region name="bryan sax-10.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6526800" length="352801" position="0" beat="0" sync-position="6526800" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="82857" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1"/>
+    <Region name="bryan sax-10.14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6526800" length="352801" position="6967800" beat="316" sync-position="6526800" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="82870" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1"/>
+    <Region name="bryan sax-10.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6531672" length="347929" position="6619872" beat="300.22095238095238" sync-position="6531672" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="26" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="82888" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1"/>
+    <Region name="bryan sax-10.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6531672" length="171528" position="6619872" beat="300.22095238095238" sync-position="6531672" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="26" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="83089" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1"/>
+    <Region name="bryan sax-10.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6703200" length="585396" position="6791400" beat="308" sync-position="6703200" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="28" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="83098" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1"/>
+    <Region name="bryan sax-10.21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6729841" length="1825559" position="6818041" beat="309.20820861677998" sync-position="6729841" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="29" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="83678" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1"/>
+    <Region name="bryan sax-10.23" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7849800" length="574072" position="7232400" beat="328" sync-position="7849800" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="30" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="84040" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1"/>
+    <Region name="bryan sax-8.30" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3537157" length="608243" position="7245168" beat="328.57904761904763" sync-position="3537157" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="31" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="84129" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1"/>
+    <Region name="bryan sax-8.31" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3528000" length="617400" position="7232400" beat="328" sync-position="3528000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="31" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="84370" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1"/>
+    <Region name="bryan sax-10.24" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="8290800" length="88201" position="0" beat="0" sync-position="8290800" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="30" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="84614" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1"/>
+    <Region name="bryan sax-10.28" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="8244790" length="20449" position="0" beat="0" sync-position="8244790" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="30" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="85070" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1"/>
+    <Region name="bryan sax-10.30" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7938000" length="36535" position="0" beat="0" sync-position="7938000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="30" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="85618" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1"/>
+    <Region name="bryan sax-10.32" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7923575" length="88200" position="8011775" beat="363.34580498866217" sync-position="7923575" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="35" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="85745" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1"/>
   </Regions>
   <CompoundAssociations>
     <CompoundAssociation copy="1324" original="977"/>
@@ -673,7 +740,7 @@
     <CompoundAssociation copy="1342" original="986"/>
   </CompoundAssociations>
   <Selection>
-    <StripableAutomationControl stripable="62928" control="0" order="2"/>
+    <StripableAutomationControl stripable="76529" control="0" order="0"/>
   </Selection>
   <Locations>
     <Location id="238" name="session" start="132300" end="8731800" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1679538784"/>
@@ -691,6 +758,7 @@
       <Controllable name="solo-safe" id="70" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="Master" id="82" direction="Input" default-type="audio">
         <Port type="audio" name="Master/audio_in 1">
+          <Connection other="Bryan sax edit/audio_out 1"/>
           <Connection other="bass/audio_out 1"/>
           <Connection other="bryan sax/audio_out 1"/>
           <Connection other="contrabs/audio_out 1"/>
@@ -702,6 +770,7 @@
           <Connection other="vocals/audio_out 1"/>
         </Port>
         <Port type="audio" name="Master/audio_in 2">
+          <Connection other="Bryan sax edit/audio_out 2"/>
           <Connection other="bass/audio_out 2"/>
           <Connection other="bryan sax/audio_out 2"/>
           <Connection other="contrabs/audio_out 2"/>
@@ -966,8 +1035,8 @@
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="792" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="792" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="794" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="789" interpolation-style="Discrete" state="Off"/>
@@ -2492,8 +2561,8 @@
       <Controllable name="rec-safe" id="43930" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="43928" flags="Toggle,RealTime" value="0"/>
     </Route>
-    <Route version="6000" id="62928" name="bryan sax" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="69800" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="9" flags="AudioTrack,OrderSet" color="3849497343"/>
+    <Route version="6000" id="62928" name="bryan sax" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="69800" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
+      <PresentationInfo order="10" flags="AudioTrack,OrderSet" color="3849497343"/>
       <Controllable name="solo" id="62936" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="62942" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="62944" flags="Toggle" value="0" solo-safe="0"/>
@@ -2510,8 +2579,8 @@
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="62938" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="62938" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="62940" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="62935" interpolation-style="Discrete" state="Off"/>
@@ -2537,7 +2606,6 @@
           <AutomationList automation-id="pan-lfe" id="62954" interpolation-style="Linear" state="Off"/>
         </Automation>
       </Pannable>
-      <Processor id="62962" name="meter-bryan sax" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="62966" name="recorder:bryan sax" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
       <Processor id="62965" name="player:bryan sax" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
       <Processor id="62959" name="Polarity" active="1" user-latency="0" use-user-latency="0" type="polarity"/>
@@ -2553,41 +2621,110 @@
         </Automation>
         <Controllable name="gaincontrol" id="62932" flags="GainLike" value="1"/>
       </Processor>
-      <Processor id="69331" name="x42-eq - Parametric Equalizer Mono" active="1" user-latency="0" use-user-latency="0" type="lv2" unique-id="http://gareus.org/oss/lv2/fil4#mono" count="1" custom="0">
+      <Processor id="62962" name="meter-bryan sax" active="1" user-latency="0" use-user-latency="0" type="meter"/>
+      <Processor id="62963" name="bryan sax" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="bryan sax" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="62972" flags="RealTime" value="2" monitoring="MonitorInput,MonitorDisk,MonitorCue"/>
+      <Controllable name="rec-safe" id="62970" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="62968" flags="Toggle,RealTime" value="0"/>
+    </Route>
+    <Route version="6000" id="76529" name="Bryan sax edit" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="76574" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
+      <PresentationInfo order="9" flags="AudioTrack,OrderSet" color="3849506559"/>
+      <Controllable name="solo" id="76537" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="76543" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="76545" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="Bryan sax edit" id="76557" direction="Input" default-type="audio">
+        <Port type="audio" name="Bryan sax edit/audio_in 1">
+          <Connection other="system:capture_9"/>
+        </Port>
+      </IO>
+      <IO name="Bryan sax edit" id="76558" direction="Output" default-type="audio">
+        <Port type="audio" name="Bryan sax edit/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="Bryan sax edit/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="76539" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="phase" id="76541" flags="Toggle" value="0" phase-invert="0"/>
+      <Automation>
+        <AutomationList automation-id="solo" id="76536" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="76542" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="76544" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="76538" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="76568" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="76570" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="76540" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="76572" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="76548" flags="" value="0.5"/>
+        <Controllable name="pan-width" id="76552" flags="" value="0"/>
+        <Controllable name="pan-elevation" id="76550" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="76554" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="76556" flags="" value="0"/>
         <Automation>
-          <AutomationList automation-id="parameter-2" id="69332" interpolation-style="Discrete" state="Off"/>
-          <AutomationList automation-id="parameter-3" id="69334" interpolation-style="Linear" state="Off"/>
-          <AutomationList automation-id="parameter-5" id="69336" interpolation-style="Discrete" state="Off"/>
-          <AutomationList automation-id="parameter-6" id="69338" interpolation-style="Discrete" state="Off"/>
-          <AutomationList automation-id="parameter-7" id="69340" interpolation-style="Logarithmic" state="Off"/>
-          <AutomationList automation-id="parameter-8" id="69342" interpolation-style="Linear" state="Off"/>
-          <AutomationList automation-id="parameter-9" id="69344" interpolation-style="Discrete" state="Off"/>
-          <AutomationList automation-id="parameter-10" id="69346" interpolation-style="Logarithmic" state="Off"/>
-          <AutomationList automation-id="parameter-11" id="69348" interpolation-style="Linear" state="Off"/>
-          <AutomationList automation-id="parameter-12" id="69350" interpolation-style="Discrete" state="Off"/>
-          <AutomationList automation-id="parameter-13" id="69352" interpolation-style="Logarithmic" state="Off"/>
-          <AutomationList automation-id="parameter-14" id="69354" interpolation-style="Linear" state="Off"/>
-          <AutomationList automation-id="parameter-15" id="69356" interpolation-style="Linear" state="Off"/>
-          <AutomationList automation-id="parameter-16" id="69358" interpolation-style="Discrete" state="Off"/>
-          <AutomationList automation-id="parameter-17" id="69360" interpolation-style="Logarithmic" state="Off"/>
-          <AutomationList automation-id="parameter-18" id="69362" interpolation-style="Linear" state="Off"/>
-          <AutomationList automation-id="parameter-19" id="69364" interpolation-style="Linear" state="Off"/>
-          <AutomationList automation-id="parameter-20" id="69366" interpolation-style="Discrete" state="Off"/>
-          <AutomationList automation-id="parameter-21" id="69368" interpolation-style="Logarithmic" state="Off"/>
-          <AutomationList automation-id="parameter-22" id="69370" interpolation-style="Linear" state="Off"/>
-          <AutomationList automation-id="parameter-23" id="69372" interpolation-style="Linear" state="Off"/>
-          <AutomationList automation-id="parameter-24" id="69374" interpolation-style="Discrete" state="Off"/>
-          <AutomationList automation-id="parameter-25" id="69376" interpolation-style="Logarithmic" state="Off"/>
-          <AutomationList automation-id="parameter-26" id="69378" interpolation-style="Linear" state="Off"/>
-          <AutomationList automation-id="parameter-27" id="69380" interpolation-style="Linear" state="Off"/>
-          <AutomationList automation-id="parameter-28" id="69382" interpolation-style="Discrete" state="Off"/>
-          <AutomationList automation-id="parameter-29" id="69384" interpolation-style="Logarithmic" state="Off"/>
-          <AutomationList automation-id="parameter-30" id="69386" interpolation-style="Linear" state="Off"/>
-          <AutomationList automation-id="parameter-31" id="69388" interpolation-style="Linear" state="Off"/>
-          <AutomationList automation-id="parameter-32" id="69390" interpolation-style="Discrete" state="Off"/>
-          <AutomationList automation-id="parameter-33" id="69392" interpolation-style="Logarithmic" state="Off"/>
-          <AutomationList automation-id="parameter-34" id="69394" interpolation-style="Linear" state="Off"/>
-          <AutomationList automation-id="parameter-35" id="69396" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-azimuth" id="76547" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="76549" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="76551" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="76553" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="76555" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="76567" name="recorder:Bryan sax edit" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
+      <Processor id="76566" name="player:Bryan sax edit" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
+      <Processor id="76560" name="Polarity" active="1" user-latency="0" use-user-latency="0" type="polarity"/>
+      <Processor id="76562" name="Amp" active="1" user-latency="0" use-user-latency="0" type="trim">
+        <Automation>
+          <AutomationList automation-id="trim" id="76534" interpolation-style="Logarithmic" state="Off"/>
+        </Automation>
+        <Controllable name="trimcontrol" id="76535" flags="GainLike" value="1"/>
+      </Processor>
+      <Processor id="76559" name="Amp" active="1" user-latency="0" use-user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="76532" interpolation-style="Exponential" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="76533" flags="GainLike" value="0.36176818609237671"/>
+      </Processor>
+      <Processor id="76736" name="x42-eq - Parametric Equalizer Mono" active="1" user-latency="0" use-user-latency="0" type="lv2" unique-id="http://gareus.org/oss/lv2/fil4#mono" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-2" id="76737" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-3" id="76739" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="76741" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-6" id="76743" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-7" id="76745" interpolation-style="Logarithmic" state="Off"/>
+          <AutomationList automation-id="parameter-8" id="76747" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-9" id="76749" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-10" id="76751" interpolation-style="Logarithmic" state="Off"/>
+          <AutomationList automation-id="parameter-11" id="76753" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-12" id="76755" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-13" id="76757" interpolation-style="Logarithmic" state="Off"/>
+          <AutomationList automation-id="parameter-14" id="76759" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-15" id="76761" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-16" id="76763" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-17" id="76765" interpolation-style="Logarithmic" state="Off"/>
+          <AutomationList automation-id="parameter-18" id="76767" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-19" id="76769" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-20" id="76771" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-21" id="76773" interpolation-style="Logarithmic" state="Off"/>
+          <AutomationList automation-id="parameter-22" id="76775" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-23" id="76777" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-24" id="76779" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-25" id="76781" interpolation-style="Logarithmic" state="Off"/>
+          <AutomationList automation-id="parameter-26" id="76783" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-27" id="76785" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-28" id="76787" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-29" id="76789" interpolation-style="Logarithmic" state="Off"/>
+          <AutomationList automation-id="parameter-30" id="76791" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-31" id="76793" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-32" id="76795" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-33" id="76797" interpolation-style="Logarithmic" state="Off"/>
+          <AutomationList automation-id="parameter-34" id="76799" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-35" id="76801" interpolation-style="Linear" state="Off"/>
         </Automation>
         <ConfiguredInput>
           <Channels type="audio" count="1"/>
@@ -2606,7 +2743,7 @@
           <Channelmap type="audio" from="0" to="0"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1" state-dir="state1">
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1" state-dir="state2">
           <Port symbol="enable" value="1"/>
           <Port symbol="gain" value="0"/>
           <Port symbol="peakreset" value="0"/>
@@ -2614,20 +2751,20 @@
           <Port symbol="HPfreq" value="20"/>
           <Port symbol="HPQ" value="0.69999998807907104"/>
           <Port symbol="LowPass" value="0"/>
-          <Port symbol="LPfreq" value="20000"/>
+          <Port symbol="LPfreq" value="11364.166015625"/>
           <Port symbol="LPQ" value="1"/>
           <Port symbol="LSsec" value="1"/>
           <Port symbol="LSfreq" value="80"/>
           <Port symbol="LSq" value="1"/>
           <Port symbol="LSgain" value="0"/>
           <Port symbol="sec1" value="1"/>
-          <Port symbol="freq1" value="179.42100524902344"/>
+          <Port symbol="freq1" value="215.24354553222656"/>
           <Port symbol="q1" value="0.60000002384185791"/>
-          <Port symbol="gain1" value="1.3999996185302734"/>
+          <Port symbol="gain1" value="10.80000114440918"/>
           <Port symbol="sec2" value="1"/>
-          <Port symbol="freq2" value="292.46810913085938"/>
+          <Port symbol="freq2" value="163.02880859375"/>
           <Port symbol="q2" value="0.60000002384185791"/>
-          <Port symbol="gain2" value="5.3999996185302734"/>
+          <Port symbol="gain2" value="4.3999996185302734"/>
           <Port symbol="sec3" value="1"/>
           <Port symbol="freq3" value="1250.0001220703125"/>
           <Port symbol="q3" value="0.60000002384185791"/>
@@ -2641,47 +2778,122 @@
           <Port symbol="HSq" value="1"/>
           <Port symbol="HSgain" value="0"/>
         </lv2>
-        <Controllable name="Enable" id="69333" flags="Toggle" value="1" parameter="2" symbol="enable"/>
-        <Controllable name="Gain" id="69335" flags="" value="0" parameter="3" symbol="gain"/>
-        <Controllable name="Reset Peak Hold" id="69337" flags="Toggle" value="0" parameter="5" symbol="peakreset"/>
-        <Controllable name="Highpass" id="69339" flags="Toggle" value="0" parameter="6" symbol="HighPass"/>
-        <Controllable name="Highpass Frequency" id="69341" flags="" value="20" parameter="7" symbol="HPfreq"/>
-        <Controllable name="HighPass Resonance" id="69343" flags="" value="0.69999998807907104" parameter="8" symbol="HPQ"/>
-        <Controllable name="Lowpass" id="69345" flags="Toggle" value="0" parameter="9" symbol="LowPass"/>
-        <Controllable name="Lowpass Frequency" id="69347" flags="" value="20000" parameter="10" symbol="LPfreq"/>
-        <Controllable name="LowPass Resonance" id="69349" flags="" value="1" parameter="11" symbol="LPQ"/>
-        <Controllable name="Lowshelf" id="69351" flags="Toggle" value="1" parameter="12" symbol="LSsec"/>
-        <Controllable name="Lowshelf Frequency" id="69353" flags="" value="80" parameter="13" symbol="LSfreq"/>
-        <Controllable name="Lowshelf Bandwidth" id="69355" flags="" value="1" parameter="14" symbol="LSq"/>
-        <Controllable name="Lowshelf Gain" id="69357" flags="" value="0" parameter="15" symbol="LSgain"/>
-        <Controllable name="Section 1" id="69359" flags="Toggle" value="1" parameter="16" symbol="sec1"/>
-        <Controllable name="Frequency 1" id="69361" flags="" value="179.42100524902344" parameter="17" symbol="freq1"/>
-        <Controllable name="Bandwidth 1" id="69363" flags="" value="0.60000002384185791" parameter="18" symbol="q1"/>
-        <Controllable name="Gain 1" id="69365" flags="" value="1.3999996185302734" parameter="19" symbol="gain1"/>
-        <Controllable name="Section 2" id="69367" flags="Toggle" value="1" parameter="20" symbol="sec2"/>
-        <Controllable name="Frequency 2" id="69369" flags="" value="292.46810913085938" parameter="21" symbol="freq2"/>
-        <Controllable name="Bandwidth 2" id="69371" flags="" value="0.60000002384185791" parameter="22" symbol="q2"/>
-        <Controllable name="Gain 2" id="69373" flags="" value="5.3999996185302734" parameter="23" symbol="gain2"/>
-        <Controllable name="Section 3" id="69375" flags="Toggle" value="1" parameter="24" symbol="sec3"/>
-        <Controllable name="Frequency 3" id="69377" flags="" value="1250.0001220703125" parameter="25" symbol="freq3"/>
-        <Controllable name="Bandwidth 3" id="69379" flags="" value="0.60000002384185791" parameter="26" symbol="q3"/>
-        <Controllable name="Gain 3" id="69381" flags="" value="0" parameter="27" symbol="gain3"/>
-        <Controllable name="Section 4" id="69383" flags="Toggle" value="1" parameter="28" symbol="sec4"/>
-        <Controllable name="Frequency 4" id="69385" flags="" value="2500.000244140625" parameter="29" symbol="freq4"/>
-        <Controllable name="Bandwidth 4" id="69387" flags="" value="0.60000002384185791" parameter="30" symbol="q4"/>
-        <Controllable name="Gain 4" id="69389" flags="" value="0" parameter="31" symbol="gain4"/>
-        <Controllable name="Highshelf" id="69391" flags="Toggle" value="1" parameter="32" symbol="HSsec"/>
-        <Controllable name="Highshelf Frequency" id="69393" flags="" value="7999.99951171875" parameter="33" symbol="HSfreq"/>
-        <Controllable name="Highshelf Bandwidth" id="69395" flags="" value="1" parameter="34" symbol="HSq"/>
-        <Controllable name="Highshelf Gain" id="69397" flags="" value="0" parameter="35" symbol="HSgain"/>
+        <Controllable name="Enable" id="76738" flags="Toggle" value="1" parameter="2" symbol="enable"/>
+        <Controllable name="Gain" id="76740" flags="" value="0" parameter="3" symbol="gain"/>
+        <Controllable name="Reset Peak Hold" id="76742" flags="Toggle" value="0" parameter="5" symbol="peakreset"/>
+        <Controllable name="Highpass" id="76744" flags="Toggle" value="0" parameter="6" symbol="HighPass"/>
+        <Controllable name="Highpass Frequency" id="76746" flags="" value="20" parameter="7" symbol="HPfreq"/>
+        <Controllable name="HighPass Resonance" id="76748" flags="" value="0.69999998807907104" parameter="8" symbol="HPQ"/>
+        <Controllable name="Lowpass" id="76750" flags="Toggle" value="0" parameter="9" symbol="LowPass"/>
+        <Controllable name="Lowpass Frequency" id="76752" flags="" value="11364.166015625" parameter="10" symbol="LPfreq"/>
+        <Controllable name="LowPass Resonance" id="76754" flags="" value="1" parameter="11" symbol="LPQ"/>
+        <Controllable name="Lowshelf" id="76756" flags="Toggle" value="1" parameter="12" symbol="LSsec"/>
+        <Controllable name="Lowshelf Frequency" id="76758" flags="" value="80" parameter="13" symbol="LSfreq"/>
+        <Controllable name="Lowshelf Bandwidth" id="76760" flags="" value="1" parameter="14" symbol="LSq"/>
+        <Controllable name="Lowshelf Gain" id="76762" flags="" value="0" parameter="15" symbol="LSgain"/>
+        <Controllable name="Section 1" id="76764" flags="Toggle" value="1" parameter="16" symbol="sec1"/>
+        <Controllable name="Frequency 1" id="76766" flags="" value="215.24354553222656" parameter="17" symbol="freq1"/>
+        <Controllable name="Bandwidth 1" id="76768" flags="" value="0.60000002384185791" parameter="18" symbol="q1"/>
+        <Controllable name="Gain 1" id="76770" flags="" value="10.80000114440918" parameter="19" symbol="gain1"/>
+        <Controllable name="Section 2" id="76772" flags="Toggle" value="1" parameter="20" symbol="sec2"/>
+        <Controllable name="Frequency 2" id="76774" flags="" value="163.02880859375" parameter="21" symbol="freq2"/>
+        <Controllable name="Bandwidth 2" id="76776" flags="" value="0.60000002384185791" parameter="22" symbol="q2"/>
+        <Controllable name="Gain 2" id="76778" flags="" value="4.3999996185302734" parameter="23" symbol="gain2"/>
+        <Controllable name="Section 3" id="76780" flags="Toggle" value="1" parameter="24" symbol="sec3"/>
+        <Controllable name="Frequency 3" id="76782" flags="" value="1250.0001220703125" parameter="25" symbol="freq3"/>
+        <Controllable name="Bandwidth 3" id="76784" flags="" value="0.60000002384185791" parameter="26" symbol="q3"/>
+        <Controllable name="Gain 3" id="76786" flags="" value="0" parameter="27" symbol="gain3"/>
+        <Controllable name="Section 4" id="76788" flags="Toggle" value="1" parameter="28" symbol="sec4"/>
+        <Controllable name="Frequency 4" id="76790" flags="" value="2500.000244140625" parameter="29" symbol="freq4"/>
+        <Controllable name="Bandwidth 4" id="76792" flags="" value="0.60000002384185791" parameter="30" symbol="q4"/>
+        <Controllable name="Gain 4" id="76794" flags="" value="0" parameter="31" symbol="gain4"/>
+        <Controllable name="Highshelf" id="76796" flags="Toggle" value="1" parameter="32" symbol="HSsec"/>
+        <Controllable name="Highshelf Frequency" id="76798" flags="" value="7999.99951171875" parameter="33" symbol="HSfreq"/>
+        <Controllable name="Highshelf Bandwidth" id="76800" flags="" value="1" parameter="34" symbol="HSq"/>
+        <Controllable name="Highshelf Gain" id="76802" flags="" value="0" parameter="35" symbol="HSgain"/>
       </Processor>
-      <Processor id="62963" name="bryan sax" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="bryan sax" type="main-outs" role="Main">
+      <Processor id="76954" name="Dragonfly Room Reverb" active="1" user-latency="0" use-user-latency="0" type="lv2" unique-id="urn:dragonfly:room" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-6" id="76955" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-7" id="76957" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-8" id="76959" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-9" id="76961" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-10" id="76963" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-11" id="76965" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-12" id="76967" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-13" id="76969" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-14" id="76971" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-15" id="76973" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-16" id="76975" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-17" id="76977" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-18" id="76979" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-19" id="76981" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-20" id="76983" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-21" id="76985" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-22" id="76987" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="2"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1" state-dir="state1">
+          <Port symbol="dry_level" value="80"/>
+          <Port symbol="early_level" value="10"/>
+          <Port symbol="early_send" value="20"/>
+          <Port symbol="late_level" value="20"/>
+          <Port symbol="size" value="12"/>
+          <Port symbol="width" value="100"/>
+          <Port symbol="predelay" value="8"/>
+          <Port symbol="decay" value="0.5"/>
+          <Port symbol="diffuse" value="70"/>
+          <Port symbol="spin" value="1.6000000238418579"/>
+          <Port symbol="wander" value="20"/>
+          <Port symbol="in_high_cut" value="16000"/>
+          <Port symbol="early_damp" value="5800"/>
+          <Port symbol="late_damp" value="4600"/>
+          <Port symbol="low_boost" value="70"/>
+          <Port symbol="boost_freq" value="1000"/>
+          <Port symbol="in_low_cut" value="4"/>
+        </lv2>
+        <Controllable name="Dry Level" id="76956" flags="" value="80" parameter="6" symbol="dry_level"/>
+        <Controllable name="Early Level" id="76958" flags="" value="10" parameter="7" symbol="early_level"/>
+        <Controllable name="Early Send" id="76960" flags="" value="20" parameter="8" symbol="early_send"/>
+        <Controllable name="Late Level" id="76962" flags="" value="20" parameter="9" symbol="late_level"/>
+        <Controllable name="Size" id="76964" flags="" value="12" parameter="10" symbol="size"/>
+        <Controllable name="Width" id="76966" flags="" value="100" parameter="11" symbol="width"/>
+        <Controllable name="Predelay" id="76968" flags="" value="8" parameter="12" symbol="predelay"/>
+        <Controllable name="Decay" id="76970" flags="" value="0.5" parameter="13" symbol="decay"/>
+        <Controllable name="Diffuse" id="76972" flags="" value="70" parameter="14" symbol="diffuse"/>
+        <Controllable name="Spin" id="76974" flags="" value="1.6000000238418579" parameter="15" symbol="spin"/>
+        <Controllable name="Wander" id="76976" flags="" value="20" parameter="16" symbol="wander"/>
+        <Controllable name="High Cut" id="76978" flags="" value="16000" parameter="17" symbol="in_high_cut"/>
+        <Controllable name="Early Damp" id="76980" flags="" value="5800" parameter="18" symbol="early_damp"/>
+        <Controllable name="Late Damp" id="76982" flags="" value="4600" parameter="19" symbol="late_damp"/>
+        <Controllable name="Low Boost" id="76984" flags="" value="70" parameter="20" symbol="low_boost"/>
+        <Controllable name="Boost Freq" id="76986" flags="" value="1000" parameter="21" symbol="boost_freq"/>
+        <Controllable name="Low Cut" id="76988" flags="" value="4" parameter="22" symbol="in_low_cut"/>
+      </Processor>
+      <Processor id="76563" name="meter-Bryan sax edit" active="1" user-latency="0" use-user-latency="0" type="meter"/>
+      <Processor id="76564" name="Bryan sax edit" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Bryan sax edit" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
       </Processor>
       <Slavable/>
-      <Controllable name="monitor" id="62972" flags="RealTime" value="2" monitoring="MonitorDisk,MonitorCue"/>
-      <Controllable name="rec-safe" id="62970" flags="Toggle,RealTime" value="0"/>
-      <Controllable name="rec-enable" id="62968" flags="Toggle,RealTime" value="1"/>
+      <Controllable name="monitor" id="76573" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="76571" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="76569" flags="Toggle,RealTime" value="0"/>
     </Route>
   </Routes>
   <Playlists>
@@ -5659,31 +5871,1359 @@
       </Region>
     </Playlist>
     <Playlist id="69800" name="Take.2" type="audio" orig-track-id="62928" pgroup-id="2023-03-22 22.16.28" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="bryan sax-10.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="8701424" position="88200" beat="4" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="69858" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1">
-        <Envelope default="yes"/>
+      <Region name="bryan sax-10.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6245663" position="88200" beat="4" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="81918" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="81924" interpolation-style="Exponential" state="Off">
+            <events>0 1
+6245663 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="69859" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="81919" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="69860" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="81920" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="69861" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="81921" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="69862" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="81922" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-10.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6350400" length="2351024" position="6438600" beat="292" sync-position="6350400" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="81927" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="81933" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002810488668
+176400 1.0000002810488668
+2351024 1
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="81928" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="81929" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="81930" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="81931" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+    </Playlist>
+    <Playlist id="76574" name="Bryan sax edit" type="audio" orig-track-id="76529" pgroup-id="" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="bryan sax-8.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3528000" length="617400" position="176400" beat="8" sync-position="3528000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="76607" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="76613" interpolation-style="Exponential" state="Off">
+            <events>0 1
+617400 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="76608" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="76609" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="76610" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="76611" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-8.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3528000" length="617400" position="882000" beat="40" sync-position="3528000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="76700" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="76706" interpolation-style="Exponential" state="Off">
+            <events>0 1
+617400 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="76701" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="76702" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="76703" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="76704" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-8.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3528000" length="264600" position="1587600" beat="72" sync-position="3528000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77769" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="77775" interpolation-style="Exponential" state="Off">
+            <events>0 1
+264600 1.0000001428571432
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="77770" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="77771" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="77772" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="77773" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-2.24" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3572100" length="133700" position="1587600" beat="72" sync-position="3572100" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="12" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="78037" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="78043" interpolation-style="Exponential" state="Off">
+            <events>0 1
+88200 1.0000002333320774
+133700 1.0000003333320775
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="78038" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="78039" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="78040" interpolation-style="Curved" state="Off">
+            <events>0 1
+9816 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="78041" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+9816 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-2.25" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6306300" length="91701" position="1587600" beat="72" sync-position="6306300" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="13" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="78169" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="78175" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002000000001
+1 1.0000001000000001
+91701 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="78170" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="78171" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="78172" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="78173" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-8.21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3792600" length="352800" position="1852200" beat="84" sync-position="3859117" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="11" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77787" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="77793" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000003810344218
+66517 1.0000003810344218
+88201 1.0000002000000001
+352800 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="77788" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="77789" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="77790" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="77791" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-2.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2160900" length="88201" position="2293200" beat="104" sync-position="2160900" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77029" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="77035" interpolation-style="Exponential" state="Off">
+            <events>0 1
+88201 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="77030" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="77031" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="77032" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="77033" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-2.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2249101" length="529200" position="2381400" beat="108" sync-position="2249101" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77089" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="77095" interpolation-style="Exponential" state="Off">
+            <events>0 1
+529200 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="77090" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="77091" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="77092" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="77093" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-2.26" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2161020" length="63626" position="2557800" beat="116" sync-position="2161020" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="14" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="78370" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="78376" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001003547458
+54752 1.0000001622124488
+63626 1.0000001622124488
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="78371" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="78372" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="78373" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="78374" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-8.27" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3528000" length="88200" position="2998800" beat="136" sync-position="3528000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="78960" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="78966" interpolation-style="Exponential" state="Off">
+            <events>0 1
+88200 1.0000001142857176
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="78961" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="78962" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="78963" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="78964" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-2.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2954700" length="220501" position="3087000" beat="140" sync-position="2954700" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77138" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="77144" interpolation-style="Exponential" state="Off">
+            <events>0 1
+220501 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="77139" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="77140" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="77141" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="77142" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-8.28" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3836701" length="308699" position="3307501" beat="150.00004535147391" sync-position="3836701" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="16" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="78978" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="78984" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002000000001
+308699 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="78979" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="78980" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="78981" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="78982" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-2.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3483900" length="622913" position="3616200" beat="164" sync-position="3483900" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77194" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="77200" interpolation-style="Exponential" state="Off">
+            <events>0 1
+88200 1.0000001333332098
+622913 1.0000001333332098
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="77195" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="77196" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="77197" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="77198" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-10.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4148706" length="440391" position="4236906" beat="192.14993197278912" sync-position="4148706" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="17" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="79170" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="79176" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001003748336
+437694 1.0000002000000001
+440391 1.0000002000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="79171" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="79172" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="79173" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="79174" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-2.34" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4544997" length="77944" position="4677297" beat="212.12231292517006" sync-position="4544997" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="19" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="79276" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="79282" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001068060489
+3306 1.0000001068060489
+77944 1.0000003000000002
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="79277" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="79278" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="79279" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="79280" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-10.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4665403" length="361998" position="4753603" beat="215.58290249433105" sync-position="4665403" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="18" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="79179" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="79185" interpolation-style="Exponential" state="Off">
+            <events>0 1.000000525553115
+13566 1.000000525553115
+15113 1.0000003769816843
+361998 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="79180" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="79181" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="79182" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="79183" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-2.37" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4806900" length="176401" position="4939200" beat="224" sync-position="4806900" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="21" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="79523" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="79529" interpolation-style="Exponential" state="Off">
+            <events>0 1
+176401 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="79524" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="79525" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="79526" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="79527" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-2.38" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4983300" length="39694" position="5115600" beat="232" sync-position="4983300" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="80200" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="80206" interpolation-style="Exponential" state="Off">
+            <events>0 1
+33898 1.0000003292251154
+39694 1.0000003292251154
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="80201" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="80202" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="80203" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="80204" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-2.45" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5021129" length="1865" position="5155294" beat="233.80018140589567" sync-position="5021129" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="22" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="81860" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="81866" interpolation-style="Exponential" state="Off">
+            <events>0 1
+1865 1.0000001181133076
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="81861" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="81862" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="81863" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="81864" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-2.46" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5024380" length="479" position="5156680" beat="233.86303854875285" sync-position="5024380" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="81878" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="81884" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000004717953326
+479 1.0000005717953326
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="81879" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="81880" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="81881" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="81882" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-2.39" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5024859" length="55798" position="5157159" beat="233.88476190476189" sync-position="5024859" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="80209" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="80215" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000005717953326
+1579 1.0000004717953326
+46642 1.0000001000000001
+55798 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="80210" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="80211" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="80212" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="80213" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-8.29" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3625357" length="520043" position="5212957" beat="236.41528344671201" sync-position="3625357" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="20" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="79423" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="79429" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002000000001
+520043 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="79424" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="79425" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="79426" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="79427" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-10.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5735268" length="510395" position="5823468" beat="264.10285714285715" sync-position="5735268" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="23" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="82308" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="82314" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002041842764
+17556 1.0000001041842763
+510395 1.0000001082083056
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="82309" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="82310" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="82311" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="82312" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-2.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6218100" length="176400" position="6350400" beat="288" sync-position="6218100" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="77292" type="audio" first-edit="nothing" source-0="69267" master-source-0="69267" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="77298" interpolation-style="Exponential" state="Off">
+            <events>0 1
+88200 1.000000199998871
+176400 1.000000199998871
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="77293" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="77294" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="77295" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="77296" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-10.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4311845" length="100369" position="6513539" beat="295.39859410430836" sync-position="4311845" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="24" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="82491" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="82497" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000004638416622
+94573 1.00000056633974
+100369 1.00000056633974
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="82492" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="82493" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="82494" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="82495" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-10.18" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6531672" length="38724" position="6615000" beat="300" sync-position="6531672" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="25" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="83128" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="83134" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000003810488669
+18648 1.000000470177175
+38724 1.000000470177175
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="83129" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="83130" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="83131" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="83132" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-10.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6552840" length="150360" position="6641040" beat="301.18095238095242" sync-position="6552840" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="26" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="83137" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="83143" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000006340511169
+17640 1.0000006340511169
+150360 1.0000002810488668
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="83138" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="83139" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="83140" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="83141" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-10.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6703200" length="31093" position="6786948" beat="307.79809523809524" sync-position="6703200" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="27" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="83669" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="83675" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002810488668
+23449 1.0000004582507638
+31093 1.0000004582507638
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="83670" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="83671" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="83672" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="83673" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-10.22" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6729841" length="396887" position="6818041" beat="309.20820861677998" sync-position="6729841" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="28" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="84031" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="84037" interpolation-style="Exponential" state="Off">
+            <events>0 1.000000556163837
+149760 1.0000003582507637
+396887 1.0000005516475672
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="84032" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="84033" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="84034" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="84035" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-10.26" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7849800" length="529200" position="7232400" beat="328" sync-position="7849800" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="29" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="84651" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="84657" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000005082507655
+529200 1.0000004957507656
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="84652" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="84653" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="84654" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="84655" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-10.25" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="8290800" length="42761" position="7761600" beat="352" sync-position="8290800" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="31" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="84627" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="84633" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000005082507655
+42761 1.0000006957507657
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="84628" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="84629" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="84630" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="84631" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-10.31" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7935410" length="69542" position="7761600" beat="352" sync-position="7935410" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="33" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="85631" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="85637" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000005082507655
+2590 1.0000005082507655
+39125 1.0000005957507656
+61632 1.0000008157176006
+69542 1.0000008157176006
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="85632" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="85633" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="85634" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="85635" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-10.27" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="8404448" length="18871" position="7804361" beat="353.93927437641725" sync-position="8404448" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="30" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="84660" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="84666" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000006864128987
+18871 1.0000006064326563
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="84661" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="84662" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="84663" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="84664" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bryan sax-10.29" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="8245630" length="110218" position="7825192" beat="354.88399092970519" sync-position="8245630" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="32" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="85083" type="audio" first-edit="nothing" source-0="69840" master-source-0="69840" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="85089" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000006957507657
+19609 1.0000005957507656
+110218 1.0000007952893732
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="85084" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="85085" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="85086" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="85087" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
@@ -5889,7 +7429,14 @@
         </InverseFadeOut>
       </Region>
       <Region name="bryan sax-8.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2822400" length="705600" position="176400" beat="8" sync-position="2822400" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="69735" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1">
-        <Envelope default="yes"/>
+        <Envelope>
+          <AutomationList automation-id="envelope" id="74945" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001000000001
+88200 1.0000001000000001
+705600 1
+</events>
+          </AutomationList>
+        </Envelope>
         <FadeIn>
           <AutomationList automation-id="fadein" id="69736" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
@@ -5913,37 +7460,6 @@
         </FadeOut>
         <InverseFadeOut>
           <AutomationList automation-id="fadeout" id="69739" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </InverseFadeOut>
-      </Region>
-      <Region name="bryan sax-8.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3528000" length="664240" position="176400" beat="8" sync-position="3528000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="69748" type="audio" first-edit="nothing" source-0="69626" master-source-0="69626" channels="1">
-        <Envelope default="yes"/>
-        <FadeIn>
-          <AutomationList automation-id="fadein" id="69749" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </FadeIn>
-        <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="69750" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </InverseFadeIn>
-        <FadeOut>
-          <AutomationList automation-id="fadeout" id="69751" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </FadeOut>
-        <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="69752" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
@@ -5994,30 +7510,6 @@
     <Protocol name="Wiimote" active="0" session-state="0"/>
   </ControlProtocols>
   <Extra>
-    <ExportProfile>
-      <ExportTimespan format="Timecode">
-        <Range id="238"/>
-      </ExportTimespan>
-      <ExportChannelConfiguration split="0" channels="2">
-        <Channel number="1">
-          <Port name="Master/audio_out 1"/>
-        </Channel>
-        <Channel number="2">
-          <Port name="Master/audio_out 2"/>
-        </Channel>
-      </ExportChannelConfiguration>
-      <ExportFormat id="e61c1d0f-95bd-48fb-b812-def99dbabe28"/>
-      <ExportFilename>
-        <Folder relative="1" path="/export"/>
-        <Field name="label" enabled="1" value="pianoline"/>
-        <Field name="session" enabled="1"/>
-        <Field name="snapshot" enabled="0"/>
-        <Field name="timespan" enabled="1"/>
-        <Field name="revision" enabled="0"/>
-        <Field name="time" enabled="0" value="T_None"/>
-        <Field name="date" enabled="1" value="D_BEShortY"/>
-      </ExportFilename>
-    </ExportProfile>
     <SelectionExportProfile>
       <ExportTimespan format="Timecode">
         <Range id="selection"/>
@@ -6042,7 +7534,6 @@
         <Field name="date" enabled="1" value="D_BEShortY"/>
       </ExportFilename>
     </SelectionExportProfile>
-    <ExportRevision revision="1"/>
     <RangeExportProfile>
       <ExportTimespan format="Timecode">
         <Range id="739"/>
@@ -6067,6 +7558,31 @@
         <Field name="date" enabled="0" value="D_None"/>
       </ExportFilename>
     </RangeExportProfile>
+    <ExportRevision revision="1"/>
+    <ExportProfile>
+      <ExportTimespan format="Timecode">
+        <Range id="238"/>
+      </ExportTimespan>
+      <ExportChannelConfiguration split="0" channels="2">
+        <Channel number="1">
+          <Port name="Master/audio_out 1"/>
+        </Channel>
+        <Channel number="2">
+          <Port name="Master/audio_out 2"/>
+        </Channel>
+      </ExportChannelConfiguration>
+      <ExportFormat id="e61c1d0f-95bd-48fb-b812-def99dbabe28"/>
+      <ExportFilename>
+        <Folder relative="1" path="export"/>
+        <Field name="label" enabled="1" value="sax-line-re-edit-2"/>
+        <Field name="session" enabled="1"/>
+        <Field name="snapshot" enabled="0"/>
+        <Field name="timespan" enabled="1"/>
+        <Field name="revision" enabled="0"/>
+        <Field name="time" enabled="0" value="T_None"/>
+        <Field name="date" enabled="1" value="D_BEShortY"/>
+      </ExportFilename>
+    </ExportProfile>
     <UI>
       <Window name="key-editor" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="session-options-editor" visible="0" x-off="0" y-off="335" x-size="750" y-size="368"/>
@@ -6099,6 +7615,7 @@
       <Window name="RPM-8575" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-43682" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-43892" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-76529" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-62928" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-54-843" visible="0" x-off="232" y-off="288" x-size="847" y-size="404" custom-ui="1"/>
       <Window name="PM-54-843" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -6128,8 +7645,10 @@
       <Window name="P-43892-44193" visible="0" x-off="170" y-off="98" x-size="875" y-size="344" custom-ui="1"/>
       <Window name="PM-43892-43986" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-43892-44193" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-62928-69331" visible="0" x-off="1151" y-off="218" x-size="769" y-size="455" custom-ui="1"/>
-      <Window name="PM-62928-69331" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-76529-76736" visible="0" x-off="989" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
+      <Window name="P-76529-76954" visible="0" x-off="913" y-off="13" x-size="920" y-size="379" custom-ui="1"/>
+      <Window name="PM-76529-76736" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-76529-76954" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 54" height="66" visible="1"/>
         <Object id="automation 58" height="66" visible="0"/>
@@ -6577,6 +8096,115 @@
             <Object id="control 69393" visible="0"/>
             <Object id="control 69395" visible="0"/>
             <Object id="InlineDisplay" visible="1"/>
+          </Object>
+          <Object id="processor 76718">
+            <Object id="control 76720" visible="0"/>
+            <Object id="control 76722" visible="0"/>
+            <Object id="control 76724" visible="0"/>
+            <Object id="control 76726" visible="0"/>
+            <Object id="control 76728" visible="0"/>
+            <Object id="control 76730" visible="0"/>
+            <Object id="control 76732" visible="0"/>
+            <Object id="InlineDisplay" visible="1"/>
+          </Object>
+        </Object>
+        <Object id="rtav 76529" height="66" visible="1"/>
+        <Object id="automation 76533" height="66" visible="0"/>
+        <Object id="automation 76535" height="66" visible="0"/>
+        <Object id="automation 76529 12/0/0" height="66" visible="0"/>
+        <Object id="automation 76548" height="66" visible="0"/>
+        <Object id="strip 76529" strip-width="Wide" visible="1">
+          <Object id="processor 76559">
+            <Object id="control 76533" visible="0"/>
+          </Object>
+          <Object id="processor 76736">
+            <Object id="control 76738" visible="0"/>
+            <Object id="control 76740" visible="0"/>
+            <Object id="control 76742" visible="0"/>
+            <Object id="control 76744" visible="0"/>
+            <Object id="control 76746" visible="0"/>
+            <Object id="control 76748" visible="0"/>
+            <Object id="control 76750" visible="0"/>
+            <Object id="control 76752" visible="0"/>
+            <Object id="control 76754" visible="0"/>
+            <Object id="control 76756" visible="0"/>
+            <Object id="control 76758" visible="0"/>
+            <Object id="control 76760" visible="0"/>
+            <Object id="control 76762" visible="0"/>
+            <Object id="control 76764" visible="0"/>
+            <Object id="control 76766" visible="0"/>
+            <Object id="control 76768" visible="0"/>
+            <Object id="control 76770" visible="0"/>
+            <Object id="control 76772" visible="0"/>
+            <Object id="control 76774" visible="0"/>
+            <Object id="control 76776" visible="0"/>
+            <Object id="control 76778" visible="0"/>
+            <Object id="control 76780" visible="0"/>
+            <Object id="control 76782" visible="0"/>
+            <Object id="control 76784" visible="0"/>
+            <Object id="control 76786" visible="0"/>
+            <Object id="control 76788" visible="0"/>
+            <Object id="control 76790" visible="0"/>
+            <Object id="control 76792" visible="0"/>
+            <Object id="control 76794" visible="0"/>
+            <Object id="control 76796" visible="0"/>
+            <Object id="control 76798" visible="0"/>
+            <Object id="control 76800" visible="0"/>
+            <Object id="InlineDisplay" visible="1"/>
+          </Object>
+          <Object id="processor 76806">
+            <Object id="control 76808" visible="0"/>
+            <Object id="control 76810" visible="0"/>
+            <Object id="control 76812" visible="0"/>
+            <Object id="control 76814" visible="0"/>
+            <Object id="control 76816" visible="0"/>
+            <Object id="control 76818" visible="0"/>
+            <Object id="control 76820" visible="0"/>
+            <Object id="control 76822" visible="0"/>
+            <Object id="control 76824" visible="0"/>
+            <Object id="control 76826" visible="0"/>
+            <Object id="control 76828" visible="0"/>
+            <Object id="control 76830" visible="0"/>
+            <Object id="control 76832" visible="0"/>
+            <Object id="control 76834" visible="0"/>
+            <Object id="control 76836" visible="0"/>
+            <Object id="control 76838" visible="0"/>
+            <Object id="control 76840" visible="0"/>
+            <Object id="control 76842" visible="0"/>
+            <Object id="control 76844" visible="0"/>
+            <Object id="control 76846" visible="0"/>
+            <Object id="control 76848" visible="0"/>
+            <Object id="control 76850" visible="0"/>
+            <Object id="control 76852" visible="0"/>
+            <Object id="control 76854" visible="0"/>
+            <Object id="control 76856" visible="0"/>
+            <Object id="control 76858" visible="0"/>
+            <Object id="control 76860" visible="0"/>
+            <Object id="control 76862" visible="0"/>
+            <Object id="control 76864" visible="0"/>
+            <Object id="control 76866" visible="0"/>
+            <Object id="control 76868" visible="0"/>
+            <Object id="control 76870" visible="0"/>
+            <Object id="InlineDisplay" visible="1"/>
+          </Object>
+          <Object id="processor 76954">
+            <Object id="control 76956" visible="0"/>
+            <Object id="control 76958" visible="0"/>
+            <Object id="control 76960" visible="0"/>
+            <Object id="control 76962" visible="0"/>
+            <Object id="control 76964" visible="0"/>
+            <Object id="control 76966" visible="0"/>
+            <Object id="control 76968" visible="0"/>
+            <Object id="control 76970" visible="0"/>
+            <Object id="control 76972" visible="0"/>
+            <Object id="control 76974" visible="0"/>
+            <Object id="control 76976" visible="0"/>
+            <Object id="control 76978" visible="0"/>
+            <Object id="control 76980" visible="0"/>
+            <Object id="control 76982" visible="0"/>
+            <Object id="control 76984" visible="0"/>
+            <Object id="control 76986" visible="0"/>
+            <Object id="control 76988" visible="0"/>
           </Object>
         </Object>
       </GUIObjectState>
