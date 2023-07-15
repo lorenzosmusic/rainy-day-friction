@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="rainy-day-friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="112769" name-counter="1" event-counter="128124" vca-counter="1">
+<Session version="6000" name="rainy-day-friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="112770" name-counter="1" event-counter="129183" vca-counter="1">
   <ProgramVersion created-with="Ardour 1:5.12.0-3ubuntu4" modified-with="Ardour 6.9.0~ds0-1build1"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
@@ -2696,7 +2696,7 @@ original vol at -0.84</Comment>
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="76533" flags="GainLike" value="0.90782058238983154"/>
+        <Controllable name="gaincontrol" id="76533" flags="GainLike" value="0.80678542424276278"/>
       </Processor>
       <Processor id="76736" name="x42-eq - Parametric Equalizer Mono" active="1" user-latency="0" use-user-latency="0" type="lv2" unique-id="http://gareus.org/oss/lv2/fil4#mono" count="1" custom="0">
         <Automation>
@@ -7619,7 +7619,7 @@ original vol at -0.84</Comment>
       <ExportFormat id="e61c1d0f-95bd-48fb-b812-def99dbabe28"/>
       <ExportFilename>
         <Folder relative="1" path="export"/>
-        <Field name="label" enabled="1" value="sax-line-remixed"/>
+        <Field name="label" enabled="1" value="sax-added-ending"/>
         <Field name="session" enabled="1"/>
         <Field name="snapshot" enabled="0"/>
         <Field name="timespan" enabled="1"/>
